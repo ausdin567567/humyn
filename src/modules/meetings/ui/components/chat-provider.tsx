@@ -2,7 +2,6 @@
 
 import { authClient } from "@/lib/auth-client";
 import { LoadingState } from "@/components/loading-state";
-import { StringValidation } from "better-auth";
 import { ChatUI } from "./chat-ui";
 
 interface Props {
